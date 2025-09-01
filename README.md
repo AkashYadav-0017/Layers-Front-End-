@@ -8,7 +8,8 @@ A visually bold, responsive eCommerce landing page for **Layers**, a brand speci
 
 ## 🖼️ Preview
 
-![Layers Landing Page Preview](./Assets/layers.png)
+![Layers Landing Page Preview]![layer](https://github.com/user-attachments/assets/765207bc-98e7-410d-8a28-502f8eb4bace)
+
 
 ---
 
