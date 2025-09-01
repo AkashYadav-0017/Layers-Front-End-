@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+    --breakpoint-*: initial;
+    --breakpoint-vsmall: 750px;
+    --breakpoint-small: 1200px;
+    --breakpoint-vxsmall: 430px;
+} 
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none;  
+    scrollbar-width: none;  
+}
